@@ -9,9 +9,9 @@ This repository includes an assignment assigned for the cource "Mining Big Datas
 ## Dataset
 
 The dataset files are:
-* ArticleNodes.csv: Contains info about Article nodes (id, title, year, journal and abstract).
-* AuthorNodes.csv: Contains article id and the name of the author(s).
-* Citations.csv: Contains info about citations between articles (articleId,--[Cites]->,articleId).
+* [ArticleNodes.csv](https://github.com/chriskal96/physics-theory-citation-network/blob/main/ArticleNodes.csv): Contains info about Article nodes (id, title, year, journal and abstract).
+* [AuthorNodes.csv](https://github.com/chriskal96/physics-theory-citation-network/blob/main/AuthorNodes.csv): Contains article id and the name of the author(s).
+* [Citations.csv](https://github.com/chriskal96/physics-theory-citation-network/blob/main/Citations.csv): Contains info about citations between articles (articleId,--[Cites]->,articleId).
 
 ## Author
 
